@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactCitas/static/css/main.4c798faf.chunk.css",
+    "main.js": "/ReactCitas/static/js/main.0385b7b9.chunk.js",
+    "main.js.map": "/ReactCitas/static/js/main.0385b7b9.chunk.js.map",
+    "runtime-main.js": "/ReactCitas/static/js/runtime-main.8618b118.js",
+    "runtime-main.js.map": "/ReactCitas/static/js/runtime-main.8618b118.js.map",
+    "static/js/2.e331d3b9.chunk.js": "/ReactCitas/static/js/2.e331d3b9.chunk.js",
+    "static/js/2.e331d3b9.chunk.js.map": "/ReactCitas/static/js/2.e331d3b9.chunk.js.map",
+    "index.html": "/ReactCitas/index.html",
+    "precache-manifest.e9d3aa4bd0d71fa25b6422365060164f.js": "/ReactCitas/precache-manifest.e9d3aa4bd0d71fa25b6422365060164f.js",
+    "service-worker.js": "/ReactCitas/service-worker.js",
+    "static/css/main.4c798faf.chunk.css.map": "/ReactCitas/static/css/main.4c798faf.chunk.css.map",
+    "static/js/2.e331d3b9.chunk.js.LICENSE.txt": "/ReactCitas/static/js/2.e331d3b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8618b118.js",
+    "static/js/2.e331d3b9.chunk.js",
+    "static/css/main.4c798faf.chunk.css",
+    "static/js/main.0385b7b9.chunk.js"
+  ]
+}
